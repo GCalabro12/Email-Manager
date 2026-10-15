@@ -2,7 +2,6 @@
   "ficha": 1,
   "id": "email-manager",
   "app": "Email Manager",
-  "familia": "Gus",
   "version": null,
   "estado": "aviso",
   "mensaje": "2 correos requieren acción",
@@ -20,6 +19,6 @@
       "etiqueta": "revisados"
     }
   ],
-  "actualizado": "2026-10-15T11:53:18+02:00",
+  "actualizado": "2026-10-15T12:28:58+02:00",
   "frecuencia_horas": 24
 }
