@@ -3,22 +3,22 @@
   "id": "email-manager",
   "app": "Email Manager",
   "version": null,
-  "estado": "ok",
-  "mensaje": "Nada urgente hoy",
+  "estado": "aviso",
+  "mensaje": "1 correo requiere acción",
   "cifras": [
     {
-      "valor": 0,
+      "valor": 1,
       "etiqueta": "🔴 acción"
     },
     {
-      "valor": 2,
+      "valor": 4,
       "etiqueta": "🟡 leer"
     },
     {
-      "valor": 2,
+      "valor": 15,
       "etiqueta": "revisados"
     }
   ],
-  "actualizado": "2026-11-03T10:14:52+01:00",
+  "actualizado": "2026-11-04T10:15:42+01:00",
   "frecuencia_horas": 24
 }
