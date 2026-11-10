@@ -4,10 +4,10 @@
   "app": "Email Manager",
   "version": null,
   "estado": "aviso",
-  "mensaje": "2 correos requieren acción",
+  "mensaje": "1 correo requiere acción",
   "cifras": [
     {
-      "valor": 2,
+      "valor": 1,
       "etiqueta": "🔴 acción"
     },
     {
@@ -15,10 +15,10 @@
       "etiqueta": "🟡 leer"
     },
     {
-      "valor": 18,
+      "valor": 12,
       "etiqueta": "revisados"
     }
   ],
-  "actualizado": "2026-11-09T10:14:58+01:00",
+  "actualizado": "2026-11-10T10:15:13+01:00",
   "frecuencia_horas": 24
 }
