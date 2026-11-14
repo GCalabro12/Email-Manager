@@ -11,14 +11,14 @@
       "etiqueta": "🔴 acción"
     },
     {
-      "valor": 4,
+      "valor": 3,
       "etiqueta": "🟡 leer"
     },
     {
-      "valor": 11,
+      "valor": 8,
       "etiqueta": "revisados"
     }
   ],
-  "actualizado": "2026-11-13T10:15:05+01:00",
+  "actualizado": "2026-11-14T10:09:58+01:00",
   "frecuencia_horas": 24
 }
