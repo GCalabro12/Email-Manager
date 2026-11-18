@@ -3,11 +3,11 @@
   "id": "email-manager",
   "app": "Email Manager",
   "version": null,
-  "estado": "aviso",
-  "mensaje": "1 correo requiere acción",
+  "estado": "ok",
+  "mensaje": "Nada urgente hoy",
   "cifras": [
     {
-      "valor": 1,
+      "valor": 0,
       "etiqueta": "🔴 acción"
     },
     {
@@ -15,10 +15,10 @@
       "etiqueta": "🟡 leer"
     },
     {
-      "valor": 11,
+      "valor": 8,
       "etiqueta": "revisados"
     }
   ],
-  "actualizado": "2026-11-17T10:14:57+01:00",
+  "actualizado": "2026-11-18T10:14:40+01:00",
   "frecuencia_horas": 24
 }
